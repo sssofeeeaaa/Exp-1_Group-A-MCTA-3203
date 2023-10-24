@@ -2,4 +2,4 @@
 # Tinkercad Simulation Group A
 https://youtu.be/vqAh1_DbIMA 
 # 7 Segments ArduinoIDE Group A
-#https://youtube.com/shorts/wpWGbjzlsWg
+https://youtube.com/shorts/wpWGbjzlsWg
